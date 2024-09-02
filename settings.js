@@ -13,7 +13,7 @@ global.ownername = 'ᴏʙɪᴛᴏ ᴜᴄʜɪʜᴀ' //owner name
 global.botname = 'ᴏʙɪᴛᴏ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'sᴛɪᴄᴋᴇʀ ʙʏ'
 global.author = 'ᴏʙɪᴛᴏ ᴜᴄʜɪʜᴀ\n\nContact: +918101821810'
 
 //console view/theme
